@@ -7,7 +7,7 @@ pool:
 
 variables:
   azureSubscription: 'nodejs-servicecon'
-  appName: 'nodejs-azure-app-c6dvgpf6ejeucthe'          
+  appName: 'nodejs-azure-app'          
   packageDirectory: '$(System.DefaultWorkingDirectory)'
 
 steps:
